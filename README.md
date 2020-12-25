@@ -1,6 +1,16 @@
 ### Hi there 👋
 I'm studying **ios swift.**
 
+
+ <div align=center>
+	
+
+	[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soos.gram/)
+  </div>
+
+
+
+
 <!--
 **everytime79/everytime79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
