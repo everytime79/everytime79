@@ -19,7 +19,7 @@ Have a Nice Day✨
 <h3 align="center">📝 Site 📝</h3>
 
 <p align="center"> 
-  <a href="https://velog.io/@everytime79)"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@everytime79"/></a><br>
+  <a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@everytime79"/></a><br>
   <a href="https://soosdev.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-FFBB00?style=flat&link=https://soosdev.tistory.com/"/></a><br>
   <a href="https://www.instagram.com/soos.gram/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&link=https://www.instagram.com/soos.gram/)"/></a><br>
   
