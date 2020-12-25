@@ -1,12 +1,14 @@
 
 ###Hi there 👋
-I'm studying ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+I'm studying ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
+---
 
+![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soos.gram/)
+---
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)](본인주소)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/soos.gram/)
  
 
 
