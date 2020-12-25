@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm studying ios swift.
+I'm studying **ios swift.**
 
 <!--
 **everytime79/everytime79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
