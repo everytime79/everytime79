@@ -1,13 +1,13 @@
-### Hi there 👋
+<center>
+> ###Hi there 👋
 I'm studying **ios swift.**
 
 
- <div align=center>
-	
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)]() 
-	[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soos.gram/)
-  </div>
 
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soos.gram/)
+</center>  
 
 
 
