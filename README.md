@@ -12,14 +12,12 @@ Have a Nice Day✨
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>&nbsp
 </p>
-![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 <h3 align="center">•••</h3>
-<p align="center">
- 
-  <a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@everytime79)"/></a>&nbsp
-  <a href="https://www.instagram.com/soos.gram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)"/></a>
-  
+
+<p align="center"> 
+  <img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@everytime79)"/>&nbsp
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&link=https://www.instagram.com/soos.gram/)"/>
 </p>
 
 
