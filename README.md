@@ -1,13 +1,13 @@
-<center>
-> ###Hi there 👋
-I'm studying **ios swift.**
+
+###Hi there 👋
+I'm studying [SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 
 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soos.gram/)
-</center>  
+ 
 
 
 
