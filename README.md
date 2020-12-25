@@ -1,16 +1,26 @@
+<h3 align="center"> 👋 Hi there 👋 </h3>
 
-###Hi there 👋
-I'm studying ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+<p align="center">
+<br><br> I'm everytime79🌱 
+Have a Nice Day✨
+</p>
 
----
 
+
+<h3 align="center">📚 Studying 📚</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>&nbsp
+</p>
 ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
----
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)](본인주소)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/soos.gram/)
+<h3 align="center">•••</h3>
+<p align="center">
  
-
+  <a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@everytime79)"/></a>&nbsp
+  <a href="https://www.instagram.com/soos.gram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)"/></a>
+  
+</p>
 
 
 <!--
