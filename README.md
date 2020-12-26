@@ -1,5 +1,5 @@
-<!--  Hi there  --><br>
-  <h3 align="center"> 👋 Hi there 👋 </h3><br>
+<!--  Hi there  -->
+  <h3 align="center"> 👋 Hi there 👋 </h3>
     <p align="center">
       I'm everytime79🌱 
       Have a Nice Day✨
@@ -7,7 +7,7 @@
 <!--  studying  --><br>
   <h3 align="center">📚 Studying 📚</h3>
     <p align="center">
-      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
     </p>
 <!--  gif  --><br>
   <h3 align="center">
