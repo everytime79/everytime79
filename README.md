@@ -1,9 +1,7 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 
 
-<h3 align="center">
-<center><img src="https://images.velog.io/images/everytime79/post/7c774c36-ce71-4bf3-9867-a5f21f1cb174/giphy.gif" width="400" height="400"></center>
-</h3>
+
 
 
 <br>
@@ -19,6 +17,12 @@ Have a Nice Day✨
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/><br>
 </p>
+
+
+<h3 align="center">
+<center><img src="https://images.velog.io/images/everytime79/post/7c774c36-ce71-4bf3-9867-a5f21f1cb174/giphy.gif" width="400" height="400"></center>
+</h3>
+
 
 
 <h3 align="center">📝 Site 📝</h3>
