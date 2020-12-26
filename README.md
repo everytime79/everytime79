@@ -20,7 +20,7 @@ Have a Nice Day✨
 
 
 <h3 align="center">
-<center><img src="https://images.velog.io/images/everytime79/post/cac5ca29-db25-46d4-bc7c-e79930ca6ee4/among.gif" width="100" height="200"></center>
+<center><img src="https://images.velog.io/images/everytime79/post/7c774c36-ce71-4bf3-9867-a5f21f1cb174/giphy.gif" width="100" height="160"></center>
 </h3>
 
 
