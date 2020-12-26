@@ -14,13 +14,6 @@ Have a Nice Day✨
 </p>
 
 
-
-<a href="http://gph.is/1h8X2QE"><img src="http://gph.is/1h8X2QE" title="Steve Jobs Apple GIF"/></a>
-
-![gif from nerdy.dev](https://giphy.com/gifs/CTkWFZ1IDvsfS/html5)
----
-
-
 <h3 align="center">📝 Site 📝</h3>
 
 <p align="center"> 
