@@ -15,8 +15,7 @@
     <p align="center">
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
     </p>
-
-<!--  site  --><br>
+<!--  site  -->
   <h3 align="center">📝 Site 📝</h3>
     <p align="center"> 
         <a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@everytime79"/></a>&nbsp
