@@ -1,10 +1,13 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 
 
+<h3 align="center">
+<center><img src="https://images.velog.io/images/everytime79/post/7c774c36-ce71-4bf3-9867-a5f21f1cb174/giphy.gif" width="400" height="400"></center>
+</h3>
 
 
+<br>
 <p align="center">
-  <center><img src="https://images.velog.io/images/everytime79/post/7c774c36-ce71-4bf3-9867-a5f21f1cb174/giphy.gif" width="200" height="100"></center>
 <br><br> I'm everytime79🌱 
 Have a Nice Day✨
 </p>
