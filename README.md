@@ -13,8 +13,11 @@ Have a Nice Day✨
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/><br>
 </p>
 
-<div style="width:100%;height:0;padding-bottom:136%;position:relative;"><iframe src="https://giphy.com/embed/CTkWFZ1IDvsfS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/apple-steve-jobs-CTkWFZ1IDvsfS">via GIPHY</a></p>
 
+
+<a href="http://gph.is/1h8X2QE"><img src="http://gph.is/1h8X2QE" title="Steve Jobs Apple GIF"/></a>
+
+![gif from nerdy.dev](https://giphy.com/gifs/CTkWFZ1IDvsfS/html5)
 ---
 
 
