@@ -10,9 +10,11 @@ Have a Nice Day✨
 <h3 align="center">📚 Studying 📚</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/><br>
 </p>
-<iframe src="https://giphy.com/embed/CTkWFZ1IDvsfS" width="352" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/apple-steve-jobs-CTkWFZ1IDvsfS">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:136%;position:relative;"><iframe src="https://giphy.com/embed/CTkWFZ1IDvsfS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/apple-steve-jobs-CTkWFZ1IDvsfS">via GIPHY</a></p>
+
 ---
 
 
