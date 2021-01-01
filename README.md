@@ -1,3 +1,10 @@
+
+<!--  gif  -->
+  <h3 align="center">
+    <center><img src="https://images.velog.io/images/everytime79/post/b9f24a32-26e7-45b2-9046-2dfb627456d8/hny.gif" width="400" height="200"></center>
+  </h3>
+
+
 <!--  Hi there  -->
   <h3 align="center"> 👋 Hi there 👋 </h3>
     <p align="center">
