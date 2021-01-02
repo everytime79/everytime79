@@ -22,6 +22,7 @@
   <h3 align="center">📚 Studying 📚</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
     </p>
     
 <!--  website & contact me -->
