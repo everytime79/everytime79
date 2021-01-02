@@ -8,7 +8,7 @@
 <!--  Hi there  -->
   <h3 align="center"> 👋 Hi there 👋 </h3>
     <p align="center">
-      I'm everytime79🌱 | Have a Nice Day✨
+      I'm Sungsoo 🌱 | Have a Nice Day ✨
     </p>
     
 <!--  gif  -->
@@ -25,7 +25,7 @@
     </p>
     
 <!--  site  -->
-  <h3 align="center">📝 Site 📝</h3>
+  <h3 align="center">📝 Site & contact me 📝</h3>
     <p align="center"> 
         <a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@everytime79"/></a>&nbsp
         <a href="https://soosdev.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-FFBB00?style=flat&link=https://soosdev.tistory.com/"/></a>&nbsp
