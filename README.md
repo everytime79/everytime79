@@ -28,7 +28,7 @@
 <!--  website & contact me -->
   <h3 align="center">📝 Website & contact me 📝</h3>
     <p align="center"> 
-        <a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@everytime79"/></a>&nbsp
-        <a href="https://soosdev.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-FFBB00?style=flat&link=https://soosdev.tistory.com/"/></a>&nbsp
+        <a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=vimeo&logoColor=white&link=https://velog.io/@everytime79"/></a>&nbsp
+        <a href="https://soosdev.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-FFBB00?style=flat&logo=Thumbtack&logoColor=white&link=https://soosdev.tistory.com/"/></a>&nbsp
         <a href="https://www.instagram.com/soos.gram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link://www.instagram.com/soos.gram/"/></a>
     </p>
