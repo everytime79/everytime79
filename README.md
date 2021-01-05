@@ -3,7 +3,7 @@
   <h3 align="center">
     <center><img src="https://images.velog.io/images/everytime79/post/b9f24a32-26e7-45b2-9046-2dfb627456d8/hny.gif" width="600" height="250"></center>
   </h3>
-
+<!-- details -->
 <details>
 <summary> CLICK THIS 👇 </summary>
 <p align="center">
@@ -35,11 +35,5 @@
         <a href="https://soosdev.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-FFBB00?style=flat&logo=Thumbtack&logoColor=white&link=https://soosdev.tistory.com/"/></a>&nbsp
         <a href="https://www.instagram.com/soos.gram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link://www.instagram.com/soos.gram/"/></a>
     </p>
-
-
 </p>
 </details> 
-
-
-
-
