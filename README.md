@@ -6,17 +6,6 @@
   
 <!-- details -->
 <details>
-<summary> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  CLICK THIS 👇 </summary>
-
-|   👋 Hi there 👋   |   📚 Studying 📚   |   📝 Website & contact me 📝   |
-|:------:|:------:|:------:|
-| I'm Sungsoo Park 🌱 Have a Nice Day ✨|<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/><img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>|<a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=vimeo&logoColor=white&link=https://velog.io/@everytime79"/></a><a href="https://soosdev.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-FFBB00?style=flat&logo=Thumbtack&logoColor=white&link=https://soosdev.tistory.com/"/></a><a href="https://www.instagram.com/soos.gram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link://www.instagram.com/soos.gram/"/></a>|
-
-</p>
-</details> 
-
-
-<details>
 <summary> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  CLICK THIS & Test 👇 </summary>
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
@@ -39,6 +28,23 @@
 
 </p>
 </details> 
+  
+  
+  
+  
+  
+  
+<!-- details 2 -->
+<details>
+<summary> test </summary>
+
+|   👋 Hi there 👋   |   📚 Studying 📚   |   📝 Website & contact me 📝   |
+|:------:|:------:|:------:|
+| I'm Sungsoo Park 🌱 Have a Nice Day ✨|<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/><img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>|<a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=vimeo&logoColor=white&link=https://velog.io/@everytime79"/></a><a href="https://soosdev.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-FFBB00?style=flat&logo=Thumbtack&logoColor=white&link=https://soosdev.tistory.com/"/></a><a href="https://www.instagram.com/soos.gram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link://www.instagram.com/soos.gram/"/></a>|
+
+</p>
+</details> 
+
 
 <!-- 1
   <h3 align="center"> 👋 Hi there 👋 </h3>
