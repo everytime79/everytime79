@@ -4,6 +4,8 @@
     <center><img src="https://images.velog.io/images/everytime79/post/b9f24a32-26e7-45b2-9046-2dfb627456d8/hny.gif" width="600" height="250"></center>
   </h3>
   
+---  
+  
 <!-- details -->
 <details>
 <summary align="center"> CLICK THIS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></summary>
