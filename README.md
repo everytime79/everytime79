@@ -5,7 +5,7 @@
   </h3>
 <!-- details -->
 <details>
-<summary> CLICK THIS 👇 </summary>
+<summary> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  CLICK THIS 👇 </summary>
 <p align="center">
   
 <!--  Hi there  -->
