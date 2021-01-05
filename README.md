@@ -3,9 +3,7 @@
   <h3 align="center">
     <center><img src="https://images.velog.io/images/everytime79/post/b9f24a32-26e7-45b2-9046-2dfb627456d8/hny.gif" width="600" height="250"></center>
   </h3>
-  
----  
-  
+
 <!-- details -->
 <details>
 <summary align="center"> CLICK THIS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></summary>
@@ -34,11 +32,6 @@
 
 </p>
 </details> 
-  
-  
-  
-  
-  
   
 <!-- details 2 -->
 <!--
@@ -75,7 +68,7 @@
     </p>
 -->
 
-<!-- 사용안함 1
+<!-- x
   <h3 align="center">
     <center><img src="https://images.velog.io/images/everytime79/post/7c774c36-ce71-4bf3-9867-a5f21f1cb174/giphy.gif" width="100" height="145"></center>
   </h3>
