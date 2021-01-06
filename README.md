@@ -8,6 +8,8 @@
 <details>
 <summary align="center"> CLICK THIS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></summary>
 
+---
+
 <h3 align="center"> 👋 Hi there 👋 </h3>
     <p align="center">
       I'm Sungsoo Park 🌱 | Have a Nice Day ✨
@@ -29,6 +31,8 @@
         <a href="https://soosdev.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-FFBB00?style=flat&logo=Thumbtack&logoColor=white&link=https://soosdev.tistory.com/"/></a>&nbsp
         <a href="https://www.instagram.com/soos.gram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link://www.instagram.com/soos.gram/"/></a>
     </p>
+
+---
 
 </p>
 </details> 
