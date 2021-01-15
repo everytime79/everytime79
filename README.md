@@ -1,4 +1,3 @@
-
 <!--  gif  -->
   <h3 align="center">
     <center><img src="https://images.velog.io/images/everytime79/post/b9f24a32-26e7-45b2-9046-2dfb627456d8/hny.gif" width="1000" height="350"></center>
@@ -43,14 +42,12 @@
 </p>
 </details> 
 -->
-
 <!-- 1
   <h3 align="center"> 👋 Hi there 👋 </h3>
     <p align="center">
       I'm Sungsoo Park 🌱 | Have a Nice Day ✨
     </p>
 -->
-
 <!-- 2
 <h3 align="center">📚 Studying 📚</h3>
     <p align="center">
@@ -58,7 +55,6 @@
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
     </p>
 -->
-
 <!-- 3
 <h3 align="center">📝 Website & contact me 📝</h3>
     <p align="center"> 
@@ -67,11 +63,8 @@
         <a href="https://www.instagram.com/soos.gram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link://www.instagram.com/soos.gram/"/></a>
     </p>
 -->
-
 <!-- x
   <h3 align="center">
     <center><img src="https://images.velog.io/images/everytime79/post/7c774c36-ce71-4bf3-9867-a5f21f1cb174/giphy.gif" width="100" height="145"></center>
   </h3>
 -->
-
-
