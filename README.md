@@ -3,9 +3,11 @@
     <center><img src="https://images.velog.io/images/everytime79/post/b9f24a32-26e7-45b2-9046-2dfb627456d8/hny.gif" width="1000" height="350"></center>
   </h3>
 
+  <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"></h3>
+  
 <!-- details -->
 <details>
-<summary align="center"> CLICK THIS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></summary>
+<summary align="center"> Click This </summary>
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
     <p align="center">
@@ -32,27 +34,15 @@
 </p>
 </details> 
 
-
-
-
 <!-- details -->
 <details>
 <summary align="center"> Github Stats </summary>
 
 <table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=everytime79&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
 </td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everytime79&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-
-</p>
-</details> 
-
+</td></tr></table> 
 
 
 
