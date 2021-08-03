@@ -1,7 +1,7 @@
 
 <!--  gif  -->
   <h3 align="center">
-    <center><img src="https://images.velog.io/images/everytime79/post/b9f24a32-26e7-45b2-9046-2dfb627456d8/hny.gif" width="1000" height="350"></center>
+    <center><img src="https://gph.is/g/EJgkj7e" width="1000" height="350"></center>
   </h3>
 
   <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"></h3>
