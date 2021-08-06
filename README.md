@@ -1,4 +1,6 @@
 <details>
+  <summary align="center"> cats.gif </summary>
+
 <!--  gif  -->
   <h3 align="center">
   Cats are cute.<br/>
