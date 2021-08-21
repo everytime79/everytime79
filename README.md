@@ -1,15 +1,15 @@
+<!-- details 1 -->
 <details>
   <summary align="center"> cats.gif </summary>
 
-<!--  gif  -->
   <h3 align="center">
   Cats are cute.<br/>
 <center><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="400"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="400"></center>
 
   <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"></h3>
 </details>
-    
-<!-- details -->
+  
+<!-- details 2 -->
 <details>
 <summary align="center"> Click This </summary>
 
@@ -17,15 +17,13 @@
     <p align="center">
       I'm Sungsoo Park 🌱 | Have a Nice Day ✨
     </p>
-    
----
+
 <h3 align="center">📚 Studying 📚</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
     </p>
----
-    
+
 <h3 align="center">📝 Website & contact me 📝</h3>
     <p align="center"> 
         <a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=vimeo&logoColor=white&link=https://velog.io/@everytime79"/></a>&nbsp
@@ -36,7 +34,7 @@
 </p>
 </details> 
 
-<!-- details -->
+<!-- details 3 -->
 <details>
 <summary align="center"> Github Stats </summary>
 
