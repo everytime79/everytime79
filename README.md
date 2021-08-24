@@ -9,6 +9,7 @@
   <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"></h3>
 </details>
   
+  
 <!-- details 2 -->
 <details>
 <summary align="center"> Click This </summary>
@@ -33,7 +34,8 @@
 
 </p>
 </details> 
-
+ 
+ 
 <!-- details 3 -->
 <details>
 <summary align="center"> Github Stats </summary>
