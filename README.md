@@ -31,7 +31,6 @@
         <a href="https://soosdev.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-FFBB00?style=flat&logo=Thumbtack&logoColor=white&link=https://soosdev.tistory.com/"/></a>&nbsp
         <a href="https://www.instagram.com/myname_soo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link://www.instagram.com/myname_soo/"/></a>
     </p>
-
 </p>
 </details> 
  
