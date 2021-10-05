@@ -9,7 +9,6 @@
 
   <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"></h3>
 </details>
- #
   
  #
 <!-- details 2 -->
@@ -35,7 +34,6 @@
  </p>
 </p>
 </details> 
-# 
  
 #
 <!-- details 3 -->
@@ -46,4 +44,3 @@
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everytime79&hide_border=true&layout=compact" align="right" style="width: 100%" />
 </td></tr></table> 
-#
