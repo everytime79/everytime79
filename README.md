@@ -1,11 +1,11 @@
 #
 <!-- details 1 -->
 <details>
-<summary align="center"> cats.gif </summary>
-<h3 align="center">
-Cats are cute.<br/>
-<center><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="400"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="400"></center>
-<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"></h3>
+  <summary align="center"> cats.gif </summary>
+    <h3 align="center">
+      Cats are cute.<br/>
+    <center><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="400"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="400"></center>
+     <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"></h3>
 </details>
   
 #
@@ -27,7 +27,6 @@ Cats are cute.<br/>
       <a href="https://soosdev.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-FFBB00?style=flat&logo=Thumbtack&logoColor=white&link=https://soosdev.tistory.com/"/></a>&nbsp
       <a href="https://www.instagram.com/myname_soo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link://www.instagram.com/myname_soo/"/></a>
     </p>
-
 </details> 
  
 #
