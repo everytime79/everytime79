@@ -14,3 +14,6 @@ https://www.boostcourse.org/opencourse
 
 
 https://www.youtube.com/c/GoldMetal/
+
+
+https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/
