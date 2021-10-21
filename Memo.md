@@ -5,7 +5,8 @@ https://www.udemy.com/
 https://www.inflearn.com/  
 https://fastcampus.co.kr/
 
-- IOS Game 2. 1. ~ 10. 15.  
+# To Do 
+- IOS Game 2. 1. ~ 10. 30.  
 - 이력서, 자소서 ~10. 19.
 
 https://dojang.io/  
