@@ -5,7 +5,7 @@
 - Inflearn https://www.inflearn.com/  
   (Stanford IOS) https://inf.run/UDYw
 - FastCampus https://fastcampus.co.kr/  
-https://www.youtube.com/channel/UCeohHCZtaw6D6rF9aG1yX_A/featured  
+- Jack Ily https://www.youtube.com/channel/UCeohHCZtaw6D6rF9aG1yX_A/featured  
 
 
 # To Do 
@@ -18,7 +18,7 @@ https://opentutorials.org/
 https://www.boostcourse.org/opencourse  
 
 ## Unity
-https://www.youtube.com/c/GoldMetal/
+- GoldMetal https://www.youtube.com/c/GoldMetal/
 
 ## Apple Developer Academy
 https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/  
