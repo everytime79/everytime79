@@ -7,7 +7,7 @@
 - FastCampus https://fastcampus.co.kr/  
 - Jack Ily https://www.youtube.com/channel/UCeohHCZtaw6D6rF9aG1yX_A/featured  
 
-
+    
 # To Do 
 - IOS Game 2. 1. ~ 10. 30.  
 - 이력서, 자소서 ~10. 19.  
