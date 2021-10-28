@@ -1,4 +1,4 @@
-# Site
+# Memo
 
 ## IOS
 - Udemy https://www.udemy.com/  
@@ -7,13 +7,13 @@
   - React Native - Basic https://inf.run/gAek
 - FastCampus https://fastcampus.co.kr/  
 - Jack Ily https://www.youtube.com/channel/UCeohHCZtaw6D6rF9aG1yX_A/featured  
-
     
-# To Do 
+## To Do 
 - IOS Game 2. 1. ~ 10. 30.  
 - 
 -
 
+## Else
 https://dojang.io/  
 https://opentutorials.org/  
 https://www.boostcourse.org/opencourse  
