@@ -9,26 +9,21 @@
 - Jack Ily https://www.youtube.com/channel/UCeohHCZtaw6D6rF9aG1yX_A/featured  
 - Programmers https://programmers.co.kr/learn/courses/4
 
----
-
 ## To Do 
 - IOS Game 2. 1. ~ 10. 30.  
 - 
 -
 
----
 
 ## Else
 https://dojang.io/  
 https://opentutorials.org/  
 https://www.boostcourse.org/opencourse  
 
----
 
 ## Unity
 - GoldMetal https://www.youtube.com/c/GoldMetal/
 
----
 
 ## Apple Developer Academy
 news https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/  
