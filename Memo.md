@@ -10,7 +10,7 @@
 - Programmers https://programmers.co.kr/learn/courses/4
 
 ## To Do 
-- IOS Game 2. 1. ~ 10. 30.  
+- 
 - 
 -
 
