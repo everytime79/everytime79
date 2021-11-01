@@ -8,6 +8,7 @@
 - FastCampus https://fastcampus.co.kr/  
 - Jack Ily https://www.youtube.com/channel/UCeohHCZtaw6D6rF9aG1yX_A/featured  
 - Programmers https://programmers.co.kr/learn/courses/4
+- Swift 5.5: Swift Programming Language https://xho95.github.io/swift/programming/language/grammar/2017/02/28/The-Swift-Programming-Language.html
 
 ## To Do 
 - 
