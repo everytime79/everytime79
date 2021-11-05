@@ -1,3 +1,7 @@
+# To Do 
+- 
+- 
+
 # IOS
 - Udemy https://www.udemy.com/  
 - Inflearn https://www.inflearn.com/  
@@ -15,17 +19,13 @@
 
 ### iOS 개발자 면접관이 확인하는 내용 - 콤씨님 
 - https://iphonedev.co.kr/iOSDevQnA/187135#comment_187168
-  1. Swift 기본 문법, 메모리 관리, 비동기처리
-  2. HTTP 통신
-  3. 디자인패턴 (MVC, MVVM)
-  4. RxSwift (해봤다면)
+  - Swift 기본 문법, 메모리 관리, 비동기처리
+  - HTTP 통신
+  - 디자인패턴 (MVC, MVVM)
+  - RxSwift (해봤다면)
 
 ### Else
 https://velog.io/@haedong/%EC%8B%A0%EC%9E%85-iOS-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B7%A8%EC%97%85-%ED%99%9C%EB%8F%99
-
-## To Do 
-- 
-- 
 
 # Else
 https://dojang.io/  
