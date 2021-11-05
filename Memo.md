@@ -9,6 +9,19 @@
 - Jack Ily https://www.youtube.com/channel/UCeohHCZtaw6D6rF9aG1yX_A/featured  
 - Programmers https://programmers.co.kr/learn/courses/4
 - Swift 5.5: Swift Programming Language https://xho95.github.io/swift/programming/language/grammar/2017/02/28/The-Swift-Programming-Language.html
+- KxCoding https://kxcoding.com/
+
+### 
+- https://ugly-developer.tistory.com/5
+- https://devsrkim.tistory.com/entry/iOS-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%A6%AC%EC%8A%A4%ED%8A%B8
+
+###
+- iOS 개발자 면접관이 확인하는 내용 - 콤씨님 https://iphonedev.co.kr/iOSDevQnA/187135#comment_187168
+1. Swift 기본 문법, 메모리 관리, 비동기처리
+2. HTTP 통신
+3. 디자인패턴 (MVC, MVVM)
+4. RxSwift (해봤다면)
+
 
 ## To Do 
 - 
