@@ -1,6 +1,4 @@
-# To Do 
-- 
-- 
+# To Do
 
 # IOS
 - Udemy https://www.udemy.com/  
