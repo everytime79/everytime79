@@ -1,6 +1,6 @@
 # To Do
 - React https://inf.run/iEAX
-- 우재 http://www.kocw.or.kr/home/search/kemView.do?kemId=1046323
+- 우재(이화여대) http://www.kocw.or.kr/home/search/kemView.do?kemId=1046323
 
 > # IOS
 - Udemy https://www.udemy.com/  
