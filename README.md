@@ -9,7 +9,7 @@
 
 <!-- details 2 -->
 <details>
-<summary align="center"> Click This </summary>
+<summary align="center"> Study </summary>
   <h3 align="center"> 👋 Hi there </h3>
     <p align="center">
       I'm Sungsoo Park 🌱 | Have a Nice Day ✨
@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
     </p>
-  <h3 align="center">📝 Website & contact me 📝</h3>
+  <h3 align="center">📝 Website & contact 📝</h3>
     <p align="center"> 
       <a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=vimeo&logoColor=white&link=https://velog.io/@everytime79"/></a>&nbsp
       <a href="https://soosdev.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-FFBB00?style=flat&logo=Thumbtack&logoColor=white&link=https://soosdev.tistory.com/"/></a>&nbsp
