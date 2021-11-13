@@ -13,7 +13,7 @@
   <h3 align="center"> 👋 Hi there </h3>
     <p align="center">
       I'm Sungsoo Park 🌱 | Have a Nice Day ✨
-    </p>
+    <br/></p>
   <h3 align="center">📚 Studying 📚</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
