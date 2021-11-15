@@ -4,10 +4,12 @@
 <br/><br/>
 
 > # IOS
-- Udemy https://www.udemy.com/  
-- Inflearn https://www.inflearn.com/  
-  - Stanford IOS https://inf.run/UDYw
-  - React Native - Basic https://inf.run/gAek
+| Tool | Version |
+|:------:|:------:|
+| Udemy | https://www.udemy.com/ |
+| Inflearn | https://www.inflearn.com/  - Stanford IOS https://inf.run/UDYw
+  - React Native - Basic https://inf.run/gAek |
+
 - FastCampus https://fastcampus.co.kr/  
 - Jack Ily https://www.youtube.com/channel/UCeohHCZtaw6D6rF9aG1yX_A/featured  
 - Programmers https://programmers.co.kr/learn/courses/4
