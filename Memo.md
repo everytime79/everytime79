@@ -4,7 +4,7 @@
 <br/><br/>
 
 > # IOS
-| Tool | Version |
+| Website | Address |
 |:------:|:------:|
 | Udemy | https://www.udemy.com/ |
 | Inflearn | https://www.inflearn.com/ | 
@@ -15,7 +15,6 @@
 | Programmers | https://programmers.co.kr/learn/courses/4 |
 | Swift 5.5: Swift Programming Language | https://xho95.github.io/swift/programming/language/grammar/2017/02/28/The-Swift-Programming-Language.html |
 | KxCoding | https://kxcoding.com/ |
-
 <br/><br/>
 
 > ### iOS/Swift
