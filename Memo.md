@@ -40,6 +40,8 @@
 -  haedong & 신입 iOS 개발자의 취업 활동  https://velog.io/@haedong/%EC%8B%A0%EC%9E%85-iOS-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B7%A8%EC%97%85-%ED%99%9C%EB%8F%99
 <br/><br/>
 
+---
+
 > # Else
 https://dojang.io/  
 https://opentutorials.org/  
@@ -50,7 +52,6 @@ https://www.boostcourse.org/opencourse
 | Website | Address |
 |:------:|:------:|
 | GoldMetal | https://www.youtube.com/c/GoldMetal/ |
-
 <br/><br/>
 
 > # Apple Developer Academy
