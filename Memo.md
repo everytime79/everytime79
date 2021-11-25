@@ -1,7 +1,7 @@
 ># To Do
 - React https://inf.run/iEAX
 - 이화여대-운영체제(우재추천) http://www.kocw.or.kr/home/search/kemView.do?kemId=1046323
-  - System Structure & Program Execution 2,Process 1
+  - Process 1
 - 11.30
 
 <br/><br/>
