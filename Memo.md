@@ -2,7 +2,6 @@
 - React https://inf.run/iEAX
 - 이화여대-운영체제(우재추천) http://www.kocw.or.kr/home/search/kemView.do?kemId=1046323
   - Process 3
-- 11.30
 
 <br/><br/>
 
@@ -32,13 +31,13 @@
   - HTTP 통신
   - 디자인패턴 (MVC, MVVM)
   - RxSwift (해봤다면)
-  - 
+ 
 <br/><br/>
 
 > ### [TechCast]
 -  iOS 개발자 코딩테스트 이야기 https://yagom.net/courses/tech-cast-1/
 -  개발자 면접 노하우 https://www.yagom-academy.kr/blog/4
--  
+
 <br/><br/>
 
 > ### velog - 참고
@@ -64,4 +63,3 @@ https://www.boostcourse.org/opencourse
 > # Apple Developer Academy
 - news https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/  
 - news https://post.naver.com/viewer/postView.naver?volumeNo=32501441&memberNo=6457418&vType=VERTICAL#
--
