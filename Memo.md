@@ -1,4 +1,5 @@
 ># To Do
+- 포항공대 애플 아카데미 신청서 접수 https://developeracademy.postech.ac.kr/ko
 - React https://inf.run/iEAX
 - 이화여대-운영체제(우재추천) http://www.kocw.or.kr/home/search/kemView.do?kemId=1046323
   - Process Management 1
