@@ -1,6 +1,4 @@
 ># To Do
-- 포항공대 애플 아카데미 신청서 접수 https://developeracademy.postech.ac.kr/ko
-- https://zeuskim.notion.site/Apple-Developer-Academy-POSTECH-b406084e470b4f5299f1780337c70c66
 - React https://inf.run/iEAX
 - 이화여대-운영체제(우재추천) http://www.kocw.or.kr/home/search/kemView.do?kemId=1046323
   - Process Management 1
@@ -57,8 +55,3 @@ https://www.boostcourse.org/opencourse
 | Website | Address |
 |:------:|:------:|
 | GoldMetal | https://www.youtube.com/c/GoldMetal/ |
-
-<br/><br/>
-> # Apple Developer Academy
-- news https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/  
-- news https://post.naver.com/viewer/postView.naver?volumeNo=32501441&memberNo=6457418&vType=VERTICAL#
