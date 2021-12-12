@@ -1,14 +1,16 @@
 <!-- details 1 -->
+<!--
 <details>
   <summary align="center"> cats.gif </summary>
     <h3 align="center">
       <br/>
     <center><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="400"></center>
-     <!--<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"></h3> -->
+    <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"></h3>
 </details>
-  
-<br/><br/>
-  
+
+<br/><br/> -->
+
+
 <!-- details 2 -->
 <details>
 <summary align="center"> Study </summary>
