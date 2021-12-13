@@ -10,7 +10,6 @@
 
 <br/><br/> -->
 
-
 <!-- details 2 -->
 <details>
 <summary align="center"> Study </summary>
@@ -34,7 +33,6 @@
 </details> 
   
 <br/><br/>
-  
 <!-- details 3 -->
 <details>
   <summary align="center"> Github Stats </summary>
