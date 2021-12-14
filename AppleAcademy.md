@@ -1,5 +1,5 @@
 # AppleAcademy
-- 포항공대 애플 아카데미 신청서 접수 https://developeracademy.postech.ac.kr/ko
+- [포항공대 애플 아카데미 신청서 접수](https://developeracademy.postech.ac.kr/ko)
 
 <br/><br/>
 # 설명회 일정
