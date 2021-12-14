@@ -1,8 +1,8 @@
 ># To Do
-- React https://inf.run/iEAX
-- 이화여대-운영체제(우재추천) http://www.kocw.or.kr/home/search/kemView.do?kemId=1046323
+- [React](https://inf.run/iEAX)
+- [이화여대-운영체제(우재추천)](http://www.kocw.or.kr/home/search/kemView.do?kemId=1046323)
   - Process Management 1
-- 노마드코더 https://nomadcoders.co/courses
+- [노마드코더](https://nomadcoders.co/courses)
 
 <br/><br/>
 > # IOS
@@ -33,8 +33,8 @@
  
 <br/><br/>
 > ### [TechCast]
--  iOS 개발자 코딩테스트 이야기 https://yagom.net/courses/tech-cast-1/
--  개발자 면접 노하우 https://www.yagom-academy.kr/blog/4
+-  [iOS 개발자 코딩테스트 이야기](https://yagom.net/courses/tech-cast-1/)
+-  [개발자 면접 노하우](https://www.yagom-academy.kr/blog/4)
 
 <br/><br/>
 > ### velog - 참고
