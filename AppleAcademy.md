@@ -13,6 +13,11 @@
 - (zeus_kim)설명회 정보 https://zeuskim.notion.site/Apple-Developer-Academy-POSTECH-b406084e470b4f5299f1780337c70c66
 
 <br/><br/>
+## 추가 설명회(12/14 점심) 요약
+- https://yeniful.tistory.com/59
+- https://jewel-bathtub-e52.notion.site/12-14-4461ec94802449b196f806b63539f8a0
+
+<br/><br/>
 # Apple Developer Academy
 - news https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/  
 - news https://post.naver.com/viewer/postView.naver?volumeNo=32501441&memberNo=6457418&vType=VERTICAL#
