@@ -10,6 +10,8 @@
 
 <br/><br/> -->
 
+[Apple ](https://github.com/everytime79/everytime79/blob/main/AppleAcademy.md)
+
 <!-- details 2 -->
 <details>
 <summary align="center"> Study </summary>
