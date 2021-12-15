@@ -1,7 +1,6 @@
 # AppleAcademy
 - [포항공대 애플 아카데미 신청서 접수](https://developeracademy.postech.ac.kr/ko)
 
-<br/><br/>
 ### 설명회 일정
 - 'CV 에 나를 제대로 표현하기' 설명회 2021년 12월 15일(수) 19:00 ~ 20:30
 - '성공적인 인터뷰 방법' 설명회 2021년 12월 28일(화) 12:30 ~ 14:00
@@ -20,7 +19,6 @@
 ### 카카오톡 오픈채팅
 [링크](https://open.kakao.com/o/g1chNTMd)
 
-<br/><br/>
 # Apple Developer Academy
 - news https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/  
 - news https://post.naver.com/viewer/postView.naver?volumeNo=32501441&memberNo=6457418&vType=VERTICAL#
