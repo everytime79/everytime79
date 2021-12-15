@@ -2,12 +2,12 @@
 - [포항공대 애플 아카데미 신청서 접수](https://developeracademy.postech.ac.kr/ko)
 
 <br/><br/>
-# 설명회 일정
+### 설명회 일정
 - 'CV 에 나를 제대로 표현하기' 설명회 2021년 12월 15일(수) 19:00 ~ 20:30
 - '성공적인 인터뷰 방법' 설명회 2021년 12월 28일(화) 12:30 ~ 14:00
 
 <br/><br/>
-# 설명회 요약
+### 설명회 요약
 - [(동춘님) 설명회 요약](https://blog.naver.com/ehdcns19)
 - [(Cleared to H)설명회 요약]( https://iphfly1030.tistory.com/category/DEVELOPMENT%26DATA/2022%20%EC%95%A0%ED%94%8C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8)
 - [(zeus_kim)설명회 정보](https://zeuskim.notion.site/Apple-Developer-Academy-POSTECH-b406084e470b4f5299f1780337c70c66)
@@ -15,9 +15,12 @@
 - [Kioding.log](https://velog.io/@un1945/Apple-Developer-Academy-POSTECH-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%84%A4%EB%AA%85%ED%9A%8C)
 
 <br/><br/>
-## 추가 설명회(12/14 점심) 요약
+### 추가 설명회(12/14 점심) 요약
 - https://yeniful.tistory.com/59
 - https://jewel-bathtub-e52.notion.site/12-14-4461ec94802449b196f806b63539f8a0
+
+### 카카오톡 오픈채팅
+[링크](https://open.kakao.com/o/g1chNTMd)
 
 <br/><br/>
 # Apple Developer Academy
