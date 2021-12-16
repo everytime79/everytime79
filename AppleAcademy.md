@@ -22,3 +22,13 @@
 # Apple Developer Academy
 - news https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/  
 - news https://post.naver.com/viewer/postView.naver?volumeNo=32501441&memberNo=6457418&vType=VERTICAL#
+
+⏰2021.12.16 업데이트⏰
+
+1. https://developeracademy.postech.ac.kr/ko/faq-kr/ (공식 FAQ 질문하기 전에 먼저 확인)
+
+2. https://yeniful.tistory.com/60 (cv 워크샵 요약)
+
+3. https://join.slack.com/t/apple-deva/shared_invite/zt-10i6uowog-RwgGl4W2MgHBB86rick7PA (슬랙 링크)
+
+4. https://docs.google.com/spreadsheets/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/edit#gid=0 (qna 모음)
