@@ -16,15 +16,14 @@
 - https://yeniful.tistory.com/59
 - https://jewel-bathtub-e52.notion.site/12-14-4461ec94802449b196f806b63539f8a0
 
-### 카카오톡 오픈채팅
-[링크](https://open.kakao.com/o/g1chNTMd)
+### [카카오톡 오픈채팅](https://open.kakao.com/o/g1chNTMd)
 
 # Apple Developer Academy
 - news https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/  
 - news https://post.naver.com/viewer/postView.naver?volumeNo=32501441&memberNo=6457418&vType=VERTICAL#
 
 >  ⏰2021.12.16 업데이트⏰
-1. https://developeracademy.postech.ac.kr/ko/faq-kr/ (공식 FAQ 질문하기 전에 먼저 확인)
-2. https://yeniful.tistory.com/60 (cv 워크샵 요약)
-3. https://join.slack.com/t/apple-deva/shared_invite/zt-10i6uowog-RwgGl4W2MgHBB86rick7PA (슬랙 링크)
-4. https://docs.google.com/spreadsheets/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/edit#gid=0 (qna 모음)
+1. [공식 FAQ 질문하기 전에 먼저 확인](https://developeracademy.postech.ac.kr/ko/faq-kr/)
+2. [cv 워크샵 요약](https://yeniful.tistory.com/60)
+3. [슬랙 링크](https://join.slack.com/t/apple-deva/shared_invite/zt-10i6uowog-RwgGl4W2MgHBB86rick7PA)
+4. [qna 모음](https://docs.google.com/spreadsheets/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/edit#gid=0)
