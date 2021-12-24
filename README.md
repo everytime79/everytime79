@@ -13,9 +13,8 @@
   
 [AppleAcademy](https://github.com/everytime79/everytime79/blob/main/AppleAcademy.md)
   
-<br/><br/>
+<br/>
 </h3>
-
 <!-- details 2 -->
 <details>
 <summary align="center"> Study </summary>
@@ -37,8 +36,8 @@
     </p>
 -->
 </details> 
-  
-<br/><br/>
+
+<br/>
 <!-- details 3 -->
 <details>
   <summary align="center"> Github Stats </summary>
