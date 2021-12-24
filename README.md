@@ -13,7 +13,6 @@
   
 [AppleAcademy](https://github.com/everytime79/everytime79/blob/main/AppleAcademy.md)
   
-  
 <br/>
 </h3>
 <!-- details 2 -->
