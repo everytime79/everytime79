@@ -1,5 +1,5 @@
 # AppleAcademy
-- [포항공대 애플 아카데미 신청서 접수](https://developeracademy.postech.ac.kr/ko)
+- ~~[포항공대 애플 아카데미 신청서 접수](https://developeracademy.postech.ac.kr/ko)~~
 
 ### 설명회 일정
 - ~~'CV 에 나를 제대로 표현하기' 설명회 2021년 12월 15일(수) 19:00 ~ 20:30~~
