@@ -18,7 +18,7 @@
 
 ### [카카오톡 오픈채팅](https://open.kakao.com/o/g1chNTMd)
 
-# Apple Developer Academy
+### Apple Developer Academy
 - news https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/  
 - news https://post.naver.com/viewer/postView.naver?volumeNo=32501441&memberNo=6457418&vType=VERTICAL#
 
