@@ -1,4 +1,4 @@
-># To Do
+# To Do
 - [React](https://inf.run/iEAX)
 - [이화여대-운영체제(우재추천)](http://www.kocw.or.kr/home/search/kemView.do?kemId=1046323)
   - Process Management 1
@@ -48,7 +48,6 @@
   https://velog.io/@haedong/%EC%8B%A0%EC%9E%85-iOS-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B7%A8%EC%97%85-%ED%99%9C%EB%8F%99
   
 <br/>
-
 
 > # Else
 https://dojang.io/  
