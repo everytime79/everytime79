@@ -56,7 +56,7 @@ https://www.boostcourse.org/opencourse
 
 <br/>
 
-> # Unity
+# Unity
 | Website | Address |
 |:------:|:------:|
 | GoldMetal | https://www.youtube.com/c/GoldMetal/ |
