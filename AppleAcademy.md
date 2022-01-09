@@ -1,9 +1,10 @@
 # AppleAcademy
 - ~~[포항공대 애플 아카데미 신청서 접수](https://developeracademy.postech.ac.kr/ko)~~
 
+# 설명회 
 ~~설명회 일정~~
-- ~~'CV 에 나를 제대로 표현하기' 설명회 2021년 12월 15일(수) 19:00 ~ 20:30~~
-- ~~'성공적인 인터뷰 방법' 설명회 2021년 12월 28일(화) 12:30 ~ 14:00~~
+- 'CV 에 나를 제대로 표현하기' 설명회 2021년 12월 15일(수) 19:00 ~ 20:30
+- '성공적인 인터뷰 방법' 설명회 2021년 12월 28일(화) 12:30 ~ 14:00
 
 ~~설명회 요약~~
 - [(동춘님) 설명회 요약](https://blog.naver.com/ehdcns19)
@@ -12,7 +13,7 @@
 - [yeni code](https://yeniful.tistory.com/59)
 - [Kioding.log](https://velog.io/@un1945/Apple-Developer-Academy-POSTECH-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%84%A4%EB%AA%85%ED%9A%8C)
 
-### 추가 설명회(12/14 점심) 요약
+~~추가 설명회(12/14 점심) 요약~~
 - https://yeniful.tistory.com/59
 - https://jewel-bathtub-e52.notion.site/12-14-4461ec94802449b196f806b63539f8a0
 
