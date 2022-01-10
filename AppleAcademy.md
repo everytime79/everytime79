@@ -13,11 +13,14 @@
 - [yeni code](https://yeniful.tistory.com/59)
 - [Kioding.log](https://velog.io/@un1945/Apple-Developer-Academy-POSTECH-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%84%A4%EB%AA%85%ED%9A%8C)
 
+- [cv 워크샵 요약](https://yeniful.tistory.com/60)
+
 ~~추가 설명회(12/14 점심) 요약~~
 - https://yeniful.tistory.com/59
 - https://jewel-bathtub-e52.notion.site/12-14-4461ec94802449b196f806b63539f8a0
 
-### [카카오톡 오픈채팅](https://open.kakao.com/o/g1chNTMd)
+### 
+[카카오톡 오픈채팅](https://open.kakao.com/o/g1chNTMd)
 
 ### Apple Developer Academy
 - news https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/  
@@ -25,6 +28,6 @@
 
 >  2021.12.16 업데이트
 1. [공식 FAQ 질문하기 전에 먼저 확인](https://developeracademy.postech.ac.kr/ko/faq-kr/)
-2. [cv 워크샵 요약](https://yeniful.tistory.com/60)
+
 3. [슬랙 링크](https://join.slack.com/t/apple-deva/shared_invite/zt-10i6uowog-RwgGl4W2MgHBB86rick7PA)
 4. [qna 모음](https://docs.google.com/spreadsheets/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/edit#gid=0)
