@@ -5,6 +5,9 @@
 ~~설명회 일정~~
 - 'CV 에 나를 제대로 표현하기' 설명회 2021년 12월 15일(수) 19:00 ~ 20:30
 - '성공적인 인터뷰 방법' 설명회 2021년 12월 28일(화) 12:30 ~ 14:00
+# Q 
+[공식 FAQ 질문하기 전에 먼저 확인](https://developeracademy.postech.ac.kr/ko/faq-kr/)
+[qna 모음](https://docs.google.com/spreadsheets/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/edit#gid=0)
 
 ~~설명회 요약~~
 - [(동춘님) 설명회 요약](https://blog.naver.com/ehdcns19)
@@ -21,13 +24,8 @@
 
 ### SNS
 [카카오톡 오픈채팅](https://open.kakao.com/o/g1chNTMd)
+[슬랙 링크](https://join.slack.com/t/apple-deva/shared_invite/zt-10i6uowog-RwgGl4W2MgHBB86rick7PA)
 
 ### Apple Developer Academy
 - news https://www.apple.com/kr/newsroom/2021/09/apple-will-open-developer-academy-in-pohang-city-next-year/  
 - news https://post.naver.com/viewer/postView.naver?volumeNo=32501441&memberNo=6457418&vType=VERTICAL#
-
->  2021.12.16 업데이트
-1. [공식 FAQ 질문하기 전에 먼저 확인](https://developeracademy.postech.ac.kr/ko/faq-kr/)
-
-3. [슬랙 링크](https://join.slack.com/t/apple-deva/shared_invite/zt-10i6uowog-RwgGl4W2MgHBB86rick7PA)
-4. [qna 모음](https://docs.google.com/spreadsheets/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/edit#gid=0)
