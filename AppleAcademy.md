@@ -8,7 +8,8 @@
 
 ### 질문
 [FAQ](https://developeracademy.postech.ac.kr/ko/faq-kr/)  
-[QnA](https://docs.google.com/spreadsheets/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/edit#gid=0)  
+[QnA 모바일](https://docs.google.com/spreadsheets/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/edit#gid=0)  
+[QnA PC](https://docs.google.com/spreadsheets/u/0/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/htmlview#)
 
 ~~설명회 요약~~
 - [(동춘님) 설명회 요약](https://blog.naver.com/ehdcns19)
