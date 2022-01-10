@@ -7,8 +7,8 @@
 - '성공적인 인터뷰 방법' 설명회 2021년 12월 28일(화) 12:30 ~ 14:00
 
 # Q 
-[공식 FAQ 질문하기 전에 먼저 확인](https://developeracademy.postech.ac.kr/ko/faq-kr/)
-[qna 모음](https://docs.google.com/spreadsheets/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/edit#gid=0)
+[FAQ](https://developeracademy.postech.ac.kr/ko/faq-kr/)  
+[QnA](https://docs.google.com/spreadsheets/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/edit#gid=0)
 
 ~~설명회 요약~~
 - [(동춘님) 설명회 요약](https://blog.naver.com/ehdcns19)
