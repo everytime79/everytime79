@@ -5,6 +5,7 @@
 ~~설명회 일정~~
 - 'CV 에 나를 제대로 표현하기' 설명회 2021년 12월 15일(수) 19:00 ~ 20:30
 - '성공적인 인터뷰 방법' 설명회 2021년 12월 28일(화) 12:30 ~ 14:00
+
 # Q 
 [공식 FAQ 질문하기 전에 먼저 확인](https://developeracademy.postech.ac.kr/ko/faq-kr/)
 [qna 모음](https://docs.google.com/spreadsheets/d/1QBG4UtvfJON2RJv3JoTAflyIzsUrfFaoxXSHyV98YoM/edit#gid=0)
