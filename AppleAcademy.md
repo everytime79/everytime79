@@ -19,7 +19,7 @@
 - https://yeniful.tistory.com/59
 - https://jewel-bathtub-e52.notion.site/12-14-4461ec94802449b196f806b63539f8a0
 
-### 
+### SNS
 [카카오톡 오픈채팅](https://open.kakao.com/o/g1chNTMd)
 
 ### Apple Developer Academy
