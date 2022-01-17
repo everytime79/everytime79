@@ -2,7 +2,7 @@
 - ~~[포항공대 애플 아카데미 신청서 접수](https://developeracademy.postech.ac.kr/ko)~~
 
 ### For more information on the Online Test! (220112 ver.)
-- [링크](https://real-evening-fbe.notion.site/For-more-information-on-the-Online-Test-210110-ver-7ea40fa94c8f43ff92572f0daf4f09fa)
+- ~~[링크](https://real-evening-fbe.notion.site/For-more-information-on-the-Online-Test-210110-ver-7ea40fa94c8f43ff92572f0daf4f09fa)~~
 
 ### 설명회 
 ~~설명회 일정~~
