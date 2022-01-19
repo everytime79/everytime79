@@ -14,7 +14,7 @@
 
 <h3 align="center">
     
-[AppleAcademy](https://github.com/everytime79/everytime79/blob/main/AppleAcademy.md)
+~~[AppleAcademy](https://github.com/everytime79/everytime79/blob/main/AppleAcademy.md)~~
 <br/><br/>
 </h3>
 <!-- details 2 -->
