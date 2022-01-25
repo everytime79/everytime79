@@ -16,6 +16,7 @@
 
 ~~설명회 요약~~
 - [link](https://yeniful.tistory.com/m/59)
+- [link2](https://velog.io/@un1945/Apple-Developer-Academy-POSTECH-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%84%A4%EB%AA%85%ED%9A%8C#9-%EA%B2%BD%EC%9F%81%EB%A5%A0%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94)
 - [(동춘님) 설명회 요약](https://blog.naver.com/ehdcns19)
 - [(Cleared to H)설명회 요약]( https://iphfly1030.tistory.com/category/DEVELOPMENT%26DATA/2022%20%EC%95%A0%ED%94%8C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8)
 - [(zeus_kim)설명회 정보](https://zeuskim.notion.site/Apple-Developer-Academy-POSTECH-b406084e470b4f5299f1780337c70c66)
