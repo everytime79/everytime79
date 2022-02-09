@@ -9,6 +9,9 @@
 </details>
 <br/><br/> -->
 
+
+
+
 <!-- details 2 -->
 <details>
 <summary align="center"> Study </summary>
@@ -30,6 +33,9 @@
     </p>
 -->
 </details> 
+
+
+
 
 <br/>
 <!-- details 3 -->
