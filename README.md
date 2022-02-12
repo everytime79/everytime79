@@ -48,4 +48,4 @@
     </td><td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everytime79&hide_border=true&layout=compact" align="right" style="width: 100%" />
     </td></tr></table> 
-</details> 
+</details>   
