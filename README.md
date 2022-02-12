@@ -11,22 +11,21 @@
 
 
 
-
 <!-- details 2 -->
 <details>
 <summary align="center"> Study </summary>
-  
-  ---
   
   <h3 align="center"> 👋 Hi there </h3>
     <p align="center">
       I'm Sungsoo Park 🌱 | Have a Nice Day ✨
     <br/><br/></p>
+  
   <h3 align="center">📚 Studying 📚</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
     <!--  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/> -->
     <br/><br/></p>
+  
   <h3 align="center">📝 Website & contact 📝</h3>
     <p align="center"> 
       <a href="https://velog.io/@everytime79"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=vimeo&logoColor=white&link=https://velog.io/@everytime79"/></a>&nbsp
@@ -50,4 +49,3 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everytime79&hide_border=true&layout=compact" align="right" style="width: 100%" />
     </td></tr></table> 
 </details> 
-    
