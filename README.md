@@ -9,11 +9,11 @@
 </details>
 <br/>><br/> -->
 
-  <br/> 
+  <br/>
 
 <!-- details 2 -->
 <details>
-<summary align="center"> Study </summary> 
+<summary align="center"> Study </summary>
 
   <h3 align="center"> 👋 Hi there </h3>
     <p align="center">
