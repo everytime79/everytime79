@@ -22,6 +22,7 @@
 - [(zeus_kim)설명회 정보](https://zeuskim.notion.site/Apple-Developer-Academy-POSTECH-b406084e470b4f5299f1780337c70c66)
 - [yeni code](https://yeniful.tistory.com/59)
 - [Kioding.log](https://velog.io/@un1945/Apple-Developer-Academy-POSTECH-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%84%A4%EB%AA%85%ED%9A%8C)
+- [yeni code](https://yeniful.tistory.com/59)
 
 - [cv 워크샵 요약](https://yeniful.tistory.com/60)
 
